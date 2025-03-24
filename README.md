@@ -80,6 +80,24 @@ Passionate about crafting beautiful and functional web applications. I love work
 🔗 [View Credential](https://progate.com/course_certificate/e03256b6qm09e6)  
 
 ---
+## 🎮 Live Projects
+
+### 🌐 Portfolio
+[![Portfolio Screenshot](https://via.placeholder.com/300x200.png?text=Portfolio+Screenshot)](https://vunnammahesh.github.io/portfolio)  
+🔗 [Live Demo](https://vunnammahesh.github.io/portfolio) | 💻 [Source Code](https://github.com/vunnammahesh/vunnammahesh.github.io/tree/main/portfolio)
+
+---
+
+### 🐷 Pig Game
+[![Pig Game Screenshot](https://via.placeholder.com/300x200.png?text=Pig+Game)](https://vunnammahesh.github.io/pig-game)  
+🔗 [Play Now](https://vunnammahesh.github.io/piggame) | 💻 [Source Code](https://github.com/vunnammahesh/vunnammahesh.github.io/tree/main/pig-game)
+
+---
+
+### 🔢 Guess My Number
+[![Guess My Number Screenshot](https://via.placeholder.com/300x200.png?text=Guess+My+Number)](https://vunnammahesh.github.io/Guess-my-number)  
+🔗 [Play Now](https://vunnammahesh.github.io/guess-my-number) | 💻 [Source Code](https://github.com/vunnammahesh/vunnammahesh.github.io/tree/main/guess-my-number)
+
 
 ## 📫 Connect With Me
 <p align="left">
