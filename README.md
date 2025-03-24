@@ -82,22 +82,27 @@ Passionate about crafting beautiful and functional web applications. I love work
 ---
 ## 🎮 Live Projects
 
-### 🌐 Portfolio
-[![Portfolio Screenshot](https://via.placeholder.com/300x200.png?text=Portfolio+Screenshot)](https://vunnammahesh.github.io/portfolio)  
-🔗 [Live Demo](https://vunnammahesh.github.io/portfolio) | 💻 [Source Code](https://github.com/vunnammahesh/vunnammahesh.github.io/tree/main/portfolio)
+### 🌐 Portfolio Website  
+A personal portfolio showcasing my projects, experience, and skills as a Frontend Developer.  
+🛠️ **Tech Stack**: React, Tailwind CSS  
+🔗 [Live Demo](https://vunnammahesh.github.io/portfolio)  
+💻 [Source Code](https://github.com/vunnammahesh/vunnammahesh.github.io/tree/main/portfolio)
 
 ---
 
-### 🐷 Pig Game
-[![Pig Game Screenshot](https://via.placeholder.com/300x200.png?text=Pig+Game)](https://vunnammahesh.github.io/pig-game)  
-🔗 [Play Now](https://vunnammahesh.github.io/pig-game) | 💻 [Source Code](https://github.com/vunnammahesh/vunnammahesh.github.io/tree/main/pig-game)
+### 🐷 Pig Game  
+A fun two-player dice game! Players take turns rolling a dice. They can **Hold** their current score or roll again, risking it all. The first player to reach **20 points** wins!  
+🛠️ **Tech Stack**: HTML, CSS, JavaScript  
+🔗 [Play Now](https://vunnammahesh.github.io/piggame)  
+💻 [Source Code](https://github.com/vunnammahesh/vunnammahesh.github.io/tree/main/piggame)
 
 ---
 
-### 🔢 Guess My Number
-[![Guess My Number Screenshot](https://via.placeholder.com/300x200.png?text=Guess+My+Number)](https://vunnammahesh.github.io/Guess-my-number)  
-🔗 [Play Now](https://vunnammahesh.github.io/Guess-my-number) | 💻 [Source Code](https://github.com/vunnammahesh/vunnammahesh.github.io/tree/main/Guess-my-number)
-
+### 🔢 Guess My Number  
+Guess a random number between **1 to 20**! The system provides **hints** whether the guess is too high or too low. Simple, fun, and addictive!  
+🛠️ **Tech Stack**: HTML, CSS, JavaScript  
+🔗 [Play Now](https://vunnammahesh.github.io/guess-my-number)  
+💻 [Source Code](https://github.com/vunnammahesh/vunnammahesh.github.io/tree/main/guess-my-number)
 
 ## 📫 Connect With Me
 <p align="left">
