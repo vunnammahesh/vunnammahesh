@@ -112,6 +112,9 @@ Guess a random number between **1 to 20**! The system provides **hints** whether
   <a href="https://github.com/vunnammahesh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub Badge"/>
   </a>
+   <a href="mailto:vunnammahesh502@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+</a>
 </p>
 
 ---
